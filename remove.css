@@ -1,4 +1,4 @@
-li.moments, li.js-moments-tab {
+li.moments, li.js-moments-tab, div.ActivityItem[data-component-context=generic_activity_MomentsBreaking] {
     display: none;
 }
 
